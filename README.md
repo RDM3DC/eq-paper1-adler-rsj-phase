@@ -1,5 +1,12 @@
 # Phase (Adler/RSJ) Dynamics
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![Adler / RSJ phase dynamics](images/adler_phase_dynamics.gif)
+
+_Hero animation: **Adler / RSJ phase dynamics**. [Download high-resolution MP4](images/adler_phase_dynamics.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 **ID:** `eq-paper1-adler-rsj-phase`  
 **Tier:** derived  
 **Score:** 96  
